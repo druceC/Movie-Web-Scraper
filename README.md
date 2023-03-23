@@ -2,7 +2,7 @@
 
 ### About:
 <p>This program was created to automate data collection for the research study:<br />
-<p> * What Makes A Blockbuster Animated Film? * <br />
+* What Makes A Blockbuster Animated Film? *
 
 ### Function:
 <p>→ Scrapes the information box of each animated film from their individual wikipedia pages <br />
