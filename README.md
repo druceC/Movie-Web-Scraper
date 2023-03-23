@@ -1,7 +1,7 @@
 ## Wikipedia Web Scraper for Animated Films 
 
 ### About:
-This program was created to automate data collection for the research study:
+<p>This program was created to automate data collection for the research study:<br />
 *What Makes A Blockbuster Animated Film?*
 
 ### Function:
