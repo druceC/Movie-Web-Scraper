@@ -1,4 +1,3 @@
-# Movie-Web-Scraper
 ## Wikipedia Web Scraper for Animated Films 
 
 This program was created to automate data collection for the research study:
