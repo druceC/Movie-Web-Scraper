@@ -16,6 +16,6 @@ This program was created to automate data collection for the research study:
   * Warner Bros
   * BlueSky Animation Studios
   * Nickelodeon
-  * Touchstone
+  * Touchstone 
   * Laika
 
